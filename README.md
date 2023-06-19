@@ -8,12 +8,12 @@
 ### Skills ⚙️
 `CSS` `HTML` `UI/UX` `design` `React` `JavaScript`
 ### Courses 📚
-- Introduction to Front-End Development
-- Programming with JavaScript
-- Version Control
-- HTML and CSS in depth
-- React Basics
-- Advanced React
-- Principles of UX/UI Design
-- Front-End Developer Capstone
-- Coding Interview Preparation
+- <a href="https://www.coursera.org/learn/introduction-to-front-end-development?specialization=meta-front-end-developer">Introduction to Front-End Development </a>
+- <a href="https://www.coursera.org/learn/programming-with-javascript?specialization=meta-front-end-developer">Programming with JavaScript</a>
+- <a href="https://www.coursera.org/learn/introduction-to-version-control?specialization=meta-front-end-developer">Version Control</a>
+- <a href="https://www.coursera.org/learn/html-and-css-in-depth?specialization=meta-front-end-developer">HTML and CSS in depth</a>
+- <a href="https://www.coursera.org/learn/react-basics?specialization=meta-front-end-developer">React Basics</a>
+- <a href="https://www.coursera.org/learn/advanced-react?specialization=meta-front-end-developer">Advanced React</a>
+- <a href="https://www.coursera.org/learn/principles-of-ux-ui-design?specialization=meta-front-end-developer">Principles of UX/UI Design</a>
+- <a href="https://www.coursera.org/learn/meta-front-end-developer-capstone?specialization=meta-front-end-developer">Front-End Developer Capstone</a>
+- <a href="https://www.coursera.org/learn/coding-interview-preparation?specialization=meta-front-end-developer">Coding Interview Preparation</a>
